@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  **Electrical & Electronics Engineer @ Aselsan** **Senior EEE Student @ Bilkent University**
+  **Electrical & Electronics Engineer @ Aselsan** <br> **Senior EEE Student @ Bilkent University**
 
   ---
   
